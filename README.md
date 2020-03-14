@@ -1,3 +1,4 @@
 # csci3136
 - QQ:3129653881
-- email: cs_helper@163.com
+- email: 3129653881@qq.com
+- site: http://www.csdaixie.net/
